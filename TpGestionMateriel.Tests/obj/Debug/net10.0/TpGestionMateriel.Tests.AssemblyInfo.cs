@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TpGestionMateriel.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e4590178366ab53c0e9dc42dfa1e7a8395204e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cb63347db11b102c49f6b5992040a2fef606457")]
 [assembly: System.Reflection.AssemblyProductAttribute("TpGestionMateriel.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TpGestionMateriel.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1074,6 +1074,16 @@
             "related": ".xml"
           }
         }
+      },
+      "TpGestionMateriel.App/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/TpGestionMateriel.App.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TpGestionMateriel.App.dll": {}
+        }
       }
     }
   },
@@ -2267,11 +2277,17 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "TpGestionMateriel.App/1.0.0": {
+      "type": "project",
+      "path": "../TpGestionMateriel.App/TpGestionMateriel.App.csproj",
+      "msbuildProject": "../TpGestionMateriel.App/TpGestionMateriel.App.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "MSTest >= 4.0.1"
+      "MSTest >= 4.0.1",
+      "TpGestionMateriel.App >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2306,7 +2322,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj": {
+              "projectPath": "C:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

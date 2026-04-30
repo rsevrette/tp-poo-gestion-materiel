@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj": {}
+    "C:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj": {
+    "C:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj",
+        "projectUniqueName": "C:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj",
         "projectName": "TpGestionMateriel.App",
-        "projectPath": "c:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj",
+        "projectPath": "C:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\TpGestionMateriel.App.csproj",
         "packagesPath": "C:\\Users\\rsevrette\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\obj\\",
+        "outputPath": "C:\\Users\\rsevrette\\Desktop\\C#\\TPGestionMateriel\\TpGestionMateriel.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
